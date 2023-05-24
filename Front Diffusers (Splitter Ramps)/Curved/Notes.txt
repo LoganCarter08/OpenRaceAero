@@ -1,3 +1,0 @@
-This is a slightly curved splitter ramp. This part has an internal area of 84 sqin as required by the SCCA Time Trials. Some popular diffusers and ramps are made with a curve to them so that air can expand in two axis instead of just one. This may be beneficial compared to straight, but that has not been verified with CFD. 
-
-The number at the end of the file indicates the flange height from the bottom. So if you have a 0.5 inch thick splitter you should choose the 0_5 file as this will put your ramp flush with the bottom of your splitter. 

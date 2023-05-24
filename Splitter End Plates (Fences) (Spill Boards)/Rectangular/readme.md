@@ -1,3 +1,5 @@
+# Rectangular Splitter End Plates
+
 These end plates are ones I have made and been running for about a year on my car with success. It is unclear how much of a benefit this has added, but similar designs are popular with aero companies. The length may need to be adjusted depending on your splitter size. The curvature at the trailing edge may need change with length changes for optimal effects. 
 
 Please note this was not designed as a sheet metal part as it should have been. This is more similar to a conventional 3D model. If anybody would like to rework it as sheet metal I will definitely upload it. As such a DXF version has been included that can be used to have to plates CNC cut and bent. The bend line is not on a bend specfic layer, so depending on who is cutting the part they may need to know this so they don't have issues or cut the line. 
