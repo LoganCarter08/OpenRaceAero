@@ -14,4 +14,4 @@ V1 was a spitball design based with squared edges and was essentially a first pa
 
 V2 is a slightly refined version of V1. This design has been refined by using data found by [Wavey Dynamics](https://www.waveydynamics.com/post/diffusers). This adds beveled edges and a beveled trailing edge.
 
-For V2 there is only a model designed for 3D printing into 4 pieces with a 1/8" height flange. 
+For V2 there is only a model designed for 3D printing into 4 pieces with a 3/8" height flange. 
